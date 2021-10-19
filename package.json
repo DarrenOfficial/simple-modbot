@@ -1,0 +1,18 @@
+{
+  "name": "nebula-modbot",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node .",
+    "pp": "nodemon ."
+  },
+  "repository": "git@github.com:DarrenOfficial/simple-modbot.git",
+  "author": "DarrenOfficial <github@darrennathanael.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "discord-reply": "^0.1.2",
+    "discord.js": "12",
+    "mongoose": "^6.0.11"
+  }
+}
