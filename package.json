@@ -10,7 +10,7 @@
   "author": "DarrenOfficial <github@darrennathanael.com>",
   "license": "MIT",
   "dependencies": {
-    "chalk": "^4.1.2",
+    "chalk": "^5.0.0",
     "discord-reply": "^0.1.2",
     "discord.js": "12",
     "mongoose": "^6.0.11"
